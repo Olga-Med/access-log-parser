@@ -38,6 +38,6 @@ build/
 ### Mac OS ###
 .DS_Store
 
-.access.log
+**/src/main/java/access.log
 
 out/
