@@ -5,7 +5,7 @@ import java.io.IOException;
 
 public class Main {
     public static void main(String[] args) throws IOException {
-        String path = "access.log";  // путь к файлу
+        String path = "access.log";  // путь к файлу.
         int totalLines = 0;         // общее количество строк
         int minLength = Integer.MAX_VALUE;  // длина самой короткой строки
         int maxLength = 0;         // длина самой длинной строки
